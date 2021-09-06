@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.style-form{
+  margin: 30px 5px;
+  border: 1px solid grey;
+  padding: 5px;
+  width: 600px;
+
+}
+.style-form input {
+  width: 95%;
+  margin: auto;
+}
+.style-form textarea {
+  width: 95%;
+  margin: auto;
+}
